@@ -3,27 +3,27 @@
     padding: 0;
     margin: 0;
 }
-
+/*anything under body will have a white backgound, unnless typed otherwise */
 body {
     background-color: #d9dcd6;
 }
-
+/*header will have a padding of 20px. a font famil of 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif. background color blue and text defaukt white*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*any h1 under header will have a designated font size of 48px and display with incline block*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*any h1 .seo will hgave a text color of white*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*any h1 .seo will hgave a text color of white*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*header divs ul will have no particular order*/
 .header div ul {
     list-style-type: none;
 }
-
+/*header divs ul li will have a designated font size of 25px and display with incline block*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*a will not have a basic font and be white*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*paragraphs will have a font size of 16px*/
 p {
     font-size: 16px;
 }
-
+/*hero class will have a height and width of 800px and 100% respectfully. a margin at the bottom of 25px. the image has ben set and the background's size and position is predetermined*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,24 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*the item will be position on the left side with a margin right of 25px*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*the item will be positioned on the right side with a margin left of 25px*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*the item will be positioned on the right side with a margin left of 25px*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*benefits class will have a height and width of 100% and 20% respectfully. a margin at the bottom of 25px. the image has ben set and the background's 
+size and position is predetermined*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,17 +86,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*benefits-lead class will have a margin at the bottom of 32px and be white*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*benefits-brand class will have a margin at the bottom of 32px and be white*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*benefits-cost class will have a margin at the bottom of 32px and be white*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;

@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-/*anything under body will have a white backgound, unnless typed otherwise */
+/*anything under body will have a white backgound, unless typed otherwise */
 body {
     background-color: #d9dcd6;
 }
@@ -19,11 +19,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/*any h1 .seo will hgave a text color of white*/
+/*any h1 .seo will have a text color of white*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*any h1 .seo will hgave a text color of white*/
+/*any h1 .seo will have a text color of white*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;

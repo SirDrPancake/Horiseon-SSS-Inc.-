@@ -1,19 +1,17 @@
 Marketing Agency
 Introduction
-Welcome to our marketing agency's codebase. Our agency provides various services such as Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing. We understand the importance of accessibility and have developed our website following accessibility standards.
+Our agency provides various services such as Search Engine Optimization, Online Reputation Management, and Social Media Marketing. We understand the importance of accessibility and have developed our website following accessibility standards.
 
 Accessibility Standards
-Our website follows accessibility standards to ensure that all users can access and navigate our site without any barriers. We have implemented the following accessibility standards:
+Our website follows accessibility standards to ensure that all users can access and navigate our code without any issues. We have implemented the following accessibility standards:
 
 Semantic HTML elements: Our webpage uses semantic HTML elements to provide a clear and logical structure to our content.
 
-Logical structure: The structure of our HTML elements is independent of styling and positioning, providing a seamless experience for all users.
+Logical structure: The structure of our HTML elements is independent of styling and positioning, providing a perfect experience for all users.
 
-Accessible icons and images: All our icons and images have accessible alt attributes, which allows users with visual impairments to understand the context of the images.
+Accessible icons and images: All icons and attributes are included to allow for users with visual impairments to easily understand the context of the content.
 
-Sequential headings: Our headings follow a sequential order to ensure that the content hierarchy is clear and understandable to all users.
-
-Descriptive title: Our website has a concise and descriptive title that accurately represents the content of our website.
+Sequential headings: Our headings follow a sequential order to make sure that the content hierarchy is clear and understandable to all users.
 
 Services
 Our marketing agency provides the following services:
@@ -29,7 +27,4 @@ Social media continues to have a sizable influence on buying habits. Social medi
 
 Conclusion
 Thank you for choosing our marketing agency for your digital marketing needs. Our website follows accessibility standards, ensuring that all users can access and navigate our site. Please feel free to contact us if you have any questions or require any further information.
-
-
-
 
